@@ -1,5 +1,6 @@
 /App/*
 !/App/AppInfo
 !/App/DefaultData
+!/App/Readme.txt
 /Data
 /*.exe
